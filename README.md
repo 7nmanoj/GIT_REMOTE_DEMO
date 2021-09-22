@@ -9,3 +9,4 @@ Initiating the github session
 now i am changing in the remote end. for this pull command has to be used in the git bash from local machine
 then adding a line in local machine. type push to send  this to remote repository
 change in remote again to learn
+changes after learning push and pull
